@@ -56,4 +56,4 @@
 
 ## < Spotify Playing />
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12146622535)
+[![Spotify](https://novatorem-fb657ujraq-uc.a.run.app/api/spotify)](https://open.spotify.com/user/12146622535)
