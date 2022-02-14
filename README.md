@@ -56,4 +56,4 @@
 
 ## < Spotify Playing />
 
-[![Spotify](https://lastfm-currentsong.apigamers.com/current?user=gabriel_ah)](https://open.spotify.com/user/12146622535)
+[![Spotify](https://lastfm-currentsong.apigamers.com/current?user=gabriel_ah&theme=nord)](https://open.spotify.com/user/12146622535)
