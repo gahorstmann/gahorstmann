@@ -6,7 +6,7 @@
 
 - 💼 I'm currently working at [AmbevTech](https://ambevtech.com.br) as **SRE**.
 - 🌱 I’m currently learning about Cloud Architecture
-- 👯 I’m looking to collaborate on GitHub Action [Credo-Sonar-Convert](https://github.com/gahorstmann/credo-sonar-convert)
+- 👯 I’m looking to collaborate on [@apigamers](https://github.com/apigamers) and GitHub Action [Credo-Sonar-Convert](https://github.com/gahorstmann/credo-sonar-convert)
 - 💬 Ask me about CI/CD
 - 😄 Pronouns: He/His
 
