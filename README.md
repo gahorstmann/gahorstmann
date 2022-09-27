@@ -6,9 +6,13 @@
 
 - 💼 I'm currently working at [AmbevTech](https://ambevtech.com.br) as **SRE**.
 - 🌱 I’m currently learning about Cloud Architecture
-- 👯 I’m looking to collaborate on [@apigamers](https://github.com/apigamers) and GitHub Action [Credo-Sonar-Convert](https://github.com/gahorstmann/credo-sonar-convert)
+- 👯 I’m looking to collaborate on [@apigamers](https://github.com/apigamers) 
 - 💬 Ask me about CI/CD, Kubernetes, Datadog, Azure Devops, GCP, SonarQube, Github Actions
 - 😄 Pronouns: He/His
+
+Projects:
+- [Credo-Sonar-Convert](https://github.com/gahorstmann/credo-sonar-convert), plugin for Github Action. 
+- [Lastfm-currentsong](https://github.com/gahorstmann/lastfm-currentsong), badge to show your current song.
 
 ### Contact me: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gahorstmann/) 
