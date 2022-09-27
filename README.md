@@ -10,13 +10,13 @@
 - 💬 Ask me about CI/CD, Kubernetes, Datadog, Azure Devops, GCP, SonarQube, Github Actions
 - 😄 Pronouns: He/His
 
-## < Projects />
-- [Credo-Sonar-Convert](https://github.com/gahorstmann/credo-sonar-convert), plugin for Github Action. 
-- [Lastfm-currentsong](https://github.com/gahorstmann/lastfm-currentsong), badge to show your current song.
-
 ### Contact me: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gahorstmann/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gabirumon)
+
+## < Projects />
+- [Credo-Sonar-Convert](https://github.com/gahorstmann/credo-sonar-convert), plugin for Github Action. 
+- [Lastfm-currentsong](https://github.com/gahorstmann/lastfm-currentsong), badge to show your current song.
 
 ## < My Statistics  />
 ![Stats](https://github-readme-stats.vercel.app/api?username=gahorstmann&count_private=true&theme=nord&hide_border=1) 
