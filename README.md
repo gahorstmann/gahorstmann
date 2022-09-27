@@ -10,7 +10,7 @@
 - 💬 Ask me about CI/CD, Kubernetes, Datadog, Azure Devops, GCP, SonarQube, Github Actions
 - 😄 Pronouns: He/His
 
-## Projects:
+## < Projects />
 - [Credo-Sonar-Convert](https://github.com/gahorstmann/credo-sonar-convert), plugin for Github Action. 
 - [Lastfm-currentsong](https://github.com/gahorstmann/lastfm-currentsong), badge to show your current song.
 
