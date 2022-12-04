@@ -59,4 +59,4 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=gahorstmann&theme=nord&no-bg=true" /></p>
 
 ## < Spotify Playing />
-![Spotify]("https://lastfm-currentsong.apigamers.com/current?user=gabriel_ah&theme=nord")
+![Spotify]("https://lastfm-currentsong.apigamers.com/current?user=gabriel_ah&theme=nord&style=spotify")
