@@ -6,7 +6,6 @@
 
 - 💼 I'm currently working at [AmbevTech](https://ambevtech.com.br) as **SRE**.
 - 🌱 I’m currently learning about Cloud Architecture
-- 👯 I’m collaborate on [@apigamers](https://github.com/apigamers) [lastfm-currentsong](https://github.com/gahorstmann/lastfm-currentsong)
 - 💬 Ask me about CI/CD, Kubernetes, Datadog, Azure Devops, GCP, SonarQube, Github Actions
 - 😄 Pronouns: He/His
 
@@ -17,6 +16,7 @@
 ## < Projects />
 - [Credo-Sonar-Convert](https://github.com/gahorstmann/credo-sonar-convert), plugin for Github Action. 
 - [Lastfm-currentsong](https://github.com/gahorstmann/lastfm-currentsong), badge to show your current song.
+- [az-devops-notification-discord](https://github.com/gahorstmann/az-devops-notification-discord), api to integration Azure DevOps notifications to webhook discord.
 
 ## < My Statistics  />
 ![Stats](https://github-readme-stats.vercel.app/api?username=gahorstmann&count_private=true&theme=nord&hide_border=1) 
